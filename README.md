@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xMentalist
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS, React, Solidity, Node.
-- 💞️ I’m looking to collaborate on anything tbh. 
+- 🤝 I’m open to collaborate!
 - 📫 How to reach me @_arjunguru on twitter!
 
 <!---
