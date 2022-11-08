@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @0xMentalist
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS, React, Solidity, Node.
+- 👀 I’m a Web Developer
+- 🌱 I’m currently learning JS, React, Solidity and Node.
 - 🤝 I’m open to collaborate!
-- 📫 How to reach me @_arjunguru on twitter!
+- 📫 How to reach me @0xMentalist on twitter!
 
 <!---
 0xMentalist/0xMentalist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
